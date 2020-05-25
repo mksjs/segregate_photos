@@ -3,10 +3,10 @@ segregated photo year and month wise
 
 2019<br />
 -- 01<br />
-____-- img1<br />
-____-- img2<br />
+&nbsp;&nbsp;&nbsp;-- img1<br />
+&nbsp;&nbsp;&nbsp;-- img2<br />
 --02<br />
-____-- img3<br />
+&nbsp;&nbsp;&nbsp;-- img3<br />
 --03<br />
 .<br />
 .<br />
