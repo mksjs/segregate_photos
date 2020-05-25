@@ -1,4 +1,4 @@
-egregate Photos on date in such structure:
+segregate Photos on date in such structure:
 
 
 ```
